@@ -1,0 +1,8 @@
+{
+  "name": "angularjs-laydate",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.6.4"
+  }
+}
